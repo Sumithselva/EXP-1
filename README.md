@@ -55,21 +55,16 @@ b.  KCL:
 Calculation:
 
 ## KCL AND KVL
- 
-<img width="612" height="1010" alt="489273631-d21b05da-9355-44c8-be7c-ff4976bd6680" src="https://github.com/user-attachments/assets/5d5a626d-0b96-47db-be32-f457645a0a7f" />
-
-<img width="539" height="968" alt="489273662-f28f8f01-a418-4f56-a154-2df7e9bab5d0" src="https://github.com/user-attachments/assets/7862b6af-5da0-4162-8e94-35f98a9db4dd" />
-<img width="610" height="980" alt="489273679-39ea9b0d-b296-46ae-853c-ad075feb9880" src="https://github.com/user-attachments/assets/98dd2edd-e84f-4092-8ff0-4d053d3f70ce" />
+ ![WhatsApp Image 2025-09-15 at 09 05 15_c03a24d7](https://github.com/user-attachments/assets/d6659269-8b7a-4127-8b01-415cb21f88c5)
 
 
+![WhatsApp Image 2025-09-15 at 09 05 15_c7e87451](https://github.com/user-attachments/assets/ec02bd33-d66e-430d-8f7f-78826dcafeac)
 
+![WhatsApp Image 2025-09-15 at 09 05 16_c8a1bd38](https://github.com/user-attachments/assets/3adc9a55-e6c7-4f62-b680-3132eab49456)
 
-<img width="529" height="1018" alt="489273699-2545fb89-3444-4900-9e73-04c06c76ccb7" src="https://github.com/user-attachments/assets/8844a050-73b5-428d-95d4-6f46aa57721e" />
-<img width="524" height="963" alt="489273720-50e62cd7-98b0-444e-8c1d-884488226175" src="https://github.com/user-attachments/assets/9e574306-5d6b-47d2-beb1-907a0b6bc18c" />
+![WhatsApp Image 2025-09-15 at 09 05 17_0e0dc9fa](https://github.com/user-attachments/assets/b2f8ffc5-40a8-4efc-9699-ace524fc414b)
 
-
-
-
+![WhatsApp Image 2025-09-15 at 09 05 17_4e204f9a](https://github.com/user-attachments/assets/25bf97e2-c420-4e4c-b0d5-b694f44c3042)
 
 
 RESULT:
